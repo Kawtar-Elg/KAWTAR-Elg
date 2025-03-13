@@ -1,11 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KAWTAR ELG
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is  𝒦𝒜𝑾𝒯𝒜𝑹 𝑬𝑳𝑮
 ==================================================================================================================================
 
-I'm a junior developer 👩‍💻
+I'm a junior developer 👩‍💻<br>
 ----------------------------
-
 Passionate about coding, learning new technologies, and building amazing projects!
-
+![gif](JXA0.gif)<br>
 * 🌍  I'm based in The Moon 🌚
 * ✉️  You can contact me at [stillwithoutemail@gmail.com](mailto:stillwithoutemail@gmail.com)
 * 🚀  I'm currently working on [Site WEb of Robotics 🤖](http://https://github.com/wieam-ar/a)
