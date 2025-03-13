@@ -32,6 +32,4 @@ src="https://img.shields.io/github/followers/Kawtar-Elg?logo=github&style=for-th
 
 <a href="http://www.github.com/Kawtar-Elg"><img src="https://github-readme-stats.vercel.app/api?username=Kawtar-Elg&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=312e81&hide_border=true&show_icons=true" alt="Kawtar-Elg's GitHub stats" /></a>
 
-<a href="http://www.github.com/Kawtar-Elg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawtar-Elg&stroke=ffffff&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/Kawtar-Elg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawtar-Elg&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
