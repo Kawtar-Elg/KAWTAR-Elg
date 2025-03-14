@@ -57,7 +57,7 @@ src="https://img.shields.io/github/followers/Kawtar-Elg?logo=github&style=for-th
 
 
 <h3 align="center"> Badges🏅 : </h3>
-<h3 align="center"> My GitHub Stats ⚖️ : </h3>
+<h3 align="center"> My GitHub Stats ⚖️  </h3>
 
 
 
