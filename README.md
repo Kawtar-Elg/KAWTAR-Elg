@@ -18,8 +18,8 @@
 ✦︎ 🧠  I'm learning Java script and some other languages 💪🏼<br>
 <br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<a href="https://www.github.com/Kawtar-Elg" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Kawtar-Elg?logo=github&style=for-the-badge&color=ec4899&labelColor=312e81" /></a>
+<a href="https://www.github.com/Kawtar-Elg" target="_blank" rel="noreferrer" ><img
+src="https://img.shields.io/github/followers/Kawtar-Elg?logo=github&style=for-the-badge&color=ec4899&labelColor=312e81 " align="left" /></a>
 
  <!--<p align="right">
 <!--   <img src="1kLR.gif" alt="cat" width="200"> -->
