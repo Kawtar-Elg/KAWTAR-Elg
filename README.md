@@ -12,11 +12,12 @@
   <img src="JXA0.gif" alt="gif">
 </p>
 
-* 🌍  I'm based in The Moon 🌚
-* ✉️  You can contact me at [stillwithoutemail@gmail.com](mailto:stillwithoutemail@gmail.com)
-* 🚀  I'm currently working on [Site WEb of Robotics 🤖](http://https://github.com/wieam-ar/a)
-* 🧠  I'm learning Java script and some other languages 💪🏼
+✦︎ 🌍  I'm based in The Moon 🌚<br>
+✦︎ ✉️  You can contact me at [stillwithoutemail@gmail.com](mailto:stillwithoutemail@gmail.com)<br>
+✦︎ 🚀  I'm currently working on [Site WEb of Robotics 🤖](http://https://github.com/wieam-ar/a)<br>
+✦︎ 🧠  I'm learning Java script and some other languages 💪🏼<br>
 <br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <a href="https://www.github.com/Kawtar-Elg" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Kawtar-Elg?logo=github&style=for-the-badge&color=ec4899&labelColor=312e81" /></a>
 
