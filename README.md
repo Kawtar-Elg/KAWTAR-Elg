@@ -13,9 +13,9 @@
 </p>
 
 ✦︎ 🌍  I'm based in The Moon 🌚<br>
-✦︎ ✉️  You can contact me at [stillwithoutemail@gmail.com](mailto:stillwithoutemail@gmail.com)<br>
-✦︎ 🚀  I'm currently working on [Site WEb of Robotics 🤖](http://https://github.com/wieam-ar/a)<br>
-✦︎ 🧠  I'm learning Java script and some other languages 💪🏼<br>
+✦︎ ✉️  You can contact me at elgaddikawtar@gmail.com<br>
+✦︎ 🚀  I'm currently working on my own project <br>
+✦︎ 🧠  I'm learning Swift / Flutter and some other languages 💪🏼<br>
 <br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <a href="https://www.github.com/Kawtar-Elg" target="_blank" rel="noreferrer" ><img
