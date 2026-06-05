@@ -13,9 +13,9 @@
 </p>
 
 ✦︎ 🌍  I'm based in The Moon 🌚<br>
-✦︎ ✉️  You can contact me at elgaddikawtar@gmail.com<br>
+✦︎ ✉️  You can contact me at kawtarelgaddi@gmail.com<br>
 ✦︎ 🚀  I'm currently working on my own project <br>
-✦︎ 🧠  I'm learning Swift / Flutter and some other languages 💪🏼<br>
+✦︎ 🧠  I'm learning Swift <br>
 <br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <a href="https://www.github.com/Kawtar-Elg" target="_blank" rel="noreferrer" ><img
